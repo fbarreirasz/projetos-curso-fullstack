@@ -1,0 +1,44 @@
+body {
+    background: url(Imagens/fundo3.2.png);
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal {
+    width: 900px;
+}
+
+#menu {
+    background: #C9B00F;
+    padding: 20px;
+}
+
+#conteudo {
+    background: #D5CA8C;
+    padding: 10px;
+}
+
+#rodape {
+    text-align: center;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.center {
+    text-align: center;
+}
+
+.img-campanha {
+    border: 10px solid #C9B00F;
+}
+
+h1 {
+    color: #000;
+    font-size: 1.2em;
+    font-style: italic;
+    font-weight: bold;
+}
